@@ -5,6 +5,7 @@
 - ⚡ Estudei: C#
 
  <div>
+ <a href="https://beacons.ai/rafaballerini">
     <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=nanydev&show_icons=true&theme=dracula&iconclude_all_commits=true&count_private=true"/>
     <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanydev&layout=compact&langs_count=16&theme=dracula"/>
  </div>
@@ -17,3 +18,7 @@
   </div>
   
   ##
+
+ <div>
+  <a href = "mariadanielly11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
