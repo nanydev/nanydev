@@ -1,7 +1,7 @@
 ### Oiii! Eu sou a Danielle Silva
 
 - 🌱 Estudando: Html,Css e Javascript
-- 📫 Como chegar até mim: mariadanielly11@gmail.com
+- 📫 Como chegar até mim: the.nany.dev@gmail.com
 - ⚡ Estudei: C#
 
  <div>
